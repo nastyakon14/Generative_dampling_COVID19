@@ -1,1 +1,1 @@
-# Generative_dampling_COVID19
+# Generative_sampling_COVID19
